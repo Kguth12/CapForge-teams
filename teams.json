@@ -1,0 +1,531 @@
+{
+  "schemaVersion": 3,
+  "note": "Custom fictional 32-team league. Team IDs, abbreviations, conferences and divisions are kept in the shipped CapForge slots for compatibility; custom cities, names, stadiums, market sizes and colors are applied.",
+  "league": {
+    "startingSalaryCap": 300000000,
+    "conferences": [
+      "AFC",
+      "NFC"
+    ],
+    "divisions": [
+      "East",
+      "North",
+      "South",
+      "West"
+    ]
+  },
+  "teams": [
+    {
+      "teamId": 4,
+      "abbr": "BUF",
+      "city": "Boston",
+      "name": "Corsairs",
+      "stadium": "Harbor Park",
+      "market": 50,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "East",
+      "colors": {
+        "primary": "#17365D",
+        "secondary": "#C6A15B",
+        "tertiary": "#E8E0CF"
+      }
+    },
+    {
+      "teamId": 20,
+      "abbr": "MIA",
+      "city": "New York",
+      "name": "Fighter Jets",
+      "stadium": "Liberty Field",
+      "market": 56,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "East",
+      "colors": {
+        "primary": "#34485A",
+        "secondary": "#B7C6D0",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 22,
+      "abbr": "NE",
+      "city": "Portland",
+      "name": "Phantoms",
+      "stadium": "Shadowline Stadium",
+      "market": 32,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "East",
+      "colors": {
+        "primary": "#292929",
+        "secondary": "#A9B2C0",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 25,
+      "abbr": "NYJ",
+      "city": "Cleveland",
+      "name": "Ironclad",
+      "stadium": "Foundry Field",
+      "market": 53,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "East",
+      "colors": {
+        "primary": "#5B4031",
+        "secondary": "#D6B58A",
+        "tertiary": "#252525"
+      }
+    },
+    {
+      "teamId": 3,
+      "abbr": "BAL",
+      "city": "Louisville",
+      "name": "Reapers",
+      "stadium": "Grimstone Stadium",
+      "market": 29,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "North",
+      "colors": {
+        "primary": "#552B31",
+        "secondary": "#C4B4B7",
+        "tertiary": "#171717"
+      }
+    },
+    {
+      "teamId": 7,
+      "abbr": "CIN",
+      "city": "Pittsburgh",
+      "name": "Steelhawks",
+      "stadium": "Rivet Stadium",
+      "market": 52,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "North",
+      "colors": {
+        "primary": "#343B45",
+        "secondary": "#E0A52B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 8,
+      "abbr": "CLE",
+      "city": "Buffalo",
+      "name": "Blizzards",
+      "stadium": "Frost Bank Field",
+      "market": 50,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "North",
+      "colors": {
+        "primary": "#1E477A",
+        "secondary": "#B9D9E8",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 27,
+      "abbr": "PIT",
+      "city": "Columbus",
+      "name": "Sentinels",
+      "stadium": "Citadel Stadium",
+      "market": 35,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "North",
+      "colors": {
+        "primary": "#254A3B",
+        "secondary": "#D5C58A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 13,
+      "abbr": "HOU",
+      "city": "Orlando",
+      "name": "Rhinos",
+      "stadium": "Stampede Stadium",
+      "market": 41,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "South",
+      "colors": {
+        "primary": "#164E61",
+        "secondary": "#B8C9C2",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 14,
+      "abbr": "IND",
+      "city": "Nashville",
+      "name": "Outlaws",
+      "stadium": "Frontier Field",
+      "market": 36,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "South",
+      "colors": {
+        "primary": "#6A3D2E",
+        "secondary": "#D8B26E",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 15,
+      "abbr": "JAX",
+      "city": "Oklahoma City",
+      "name": "Thunderhawks",
+      "stadium": "Stormfront Stadium",
+      "market": 30,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "South",
+      "colors": {
+        "primary": "#263B67",
+        "secondary": "#C7D4E8",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 31,
+      "abbr": "TEN",
+      "city": "Austin",
+      "name": "Wranglers",
+      "stadium": "Longhorn Stadium",
+      "market": 33,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "South",
+      "colors": {
+        "primary": "#6B342B",
+        "secondary": "#D5A45C",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 10,
+      "abbr": "DEN",
+      "city": "Phoenix",
+      "name": "Firebirds",
+      "stadium": "Ember Field",
+      "market": 39,
+      "roof": "retractable",
+      "conference": "AFC",
+      "division": "West",
+      "colors": {
+        "primary": "#174A35",
+        "secondary": "#E5A34B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 16,
+      "abbr": "KC",
+      "city": "San Diego",
+      "name": "Aztecs",
+      "stadium": "Warrior Bowl",
+      "market": 44,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "West",
+      "colors": {
+        "primary": "#473B76",
+        "secondary": "#D6B66A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 17,
+      "abbr": "LAC",
+      "city": "Salt Lake City",
+      "name": "Bighorns",
+      "stadium": "Summit Stadium",
+      "market": 25,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "West",
+      "colors": {
+        "primary": "#49331F",
+        "secondary": "#D8C6A5",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 19,
+      "abbr": "LV",
+      "city": "Las Vegas",
+      "name": "Vipers",
+      "stadium": "Venom Park",
+      "market": 23,
+      "roof": "dome",
+      "conference": "AFC",
+      "division": "West",
+      "colors": {
+        "primary": "#31513D",
+        "secondary": "#A9C96A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 9,
+      "abbr": "DAL",
+      "city": "Dallas",
+      "name": "Stars",
+      "stadium": "Lone Star Stadium",
+      "market": 49,
+      "roof": "retractable",
+      "conference": "NFC",
+      "division": "East",
+      "colors": {
+        "primary": "#304D78",
+        "secondary": "#C9B36A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 24,
+      "abbr": "NYG",
+      "city": "Charlotte",
+      "name": "Dragons",
+      "stadium": "Dragon's Den",
+      "market": 35,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "East",
+      "colors": {
+        "primary": "#752B27",
+        "secondary": "#D8A05B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 26,
+      "abbr": "PHI",
+      "city": "Tampa Bay",
+      "name": "Pirates",
+      "stadium": "Blackwater Stadium",
+      "market": 48,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "East",
+      "colors": {
+        "primary": "#202020",
+        "secondary": "#B99A55",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 32,
+      "abbr": "WAS",
+      "city": "Philadelphia",
+      "name": "Founders",
+      "stadium": "Liberty Bell Park",
+      "market": 55,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "East",
+      "colors": {
+        "primary": "#254B45",
+        "secondary": "#C5BCA5",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 6,
+      "abbr": "CHI",
+      "city": "Anchorage",
+      "name": "Polar Bears",
+      "stadium": "Glacier Field",
+      "market": 18,
+      "roof": "dome",
+      "conference": "NFC",
+      "division": "North",
+      "colors": {
+        "primary": "#37647B",
+        "secondary": "#E1E8EB",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 11,
+      "abbr": "DET",
+      "city": "Minneapolis",
+      "name": "Wolves",
+      "stadium": "Northstar Stadium",
+      "market": 45,
+      "roof": "dome",
+      "conference": "NFC",
+      "division": "North",
+      "colors": {
+        "primary": "#263B52",
+        "secondary": "#A9BBC8",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 12,
+      "abbr": "GB",
+      "city": "Milwaukee",
+      "name": "Timberwolves",
+      "stadium": "Lumberyard Field",
+      "market": 28,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "North",
+      "colors": {
+        "primary": "#4A382D",
+        "secondary": "#D5B77A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 21,
+      "abbr": "MIN",
+      "city": "Chicago",
+      "name": "Blazers",
+      "stadium": "Forge Stadium",
+      "market": 52,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "North",
+      "colors": {
+        "primary": "#8A3A2C",
+        "secondary": "#D8C8B5",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 2,
+      "abbr": "ATL",
+      "city": "Seattle",
+      "name": "Thunder",
+      "stadium": "Soundview Stadium",
+      "market": 17,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "South",
+      "colors": {
+        "primary": "#28504A",
+        "secondary": "#B6C7C0",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 5,
+      "abbr": "CAR",
+      "city": "New Orleans",
+      "name": "Voodoo",
+      "stadium": "Crescent Stadium",
+      "market": 58,
+      "roof": "dome",
+      "conference": "NFC",
+      "division": "South",
+      "colors": {
+        "primary": "#392B55",
+        "secondary": "#C8A85A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 23,
+      "abbr": "NO",
+      "city": "Atlanta",
+      "name": "Firehawks",
+      "stadium": "Phoenix Rise Stadium",
+      "market": 35,
+      "roof": "retractable",
+      "conference": "NFC",
+      "division": "South",
+      "colors": {
+        "primary": "#6A2D2D",
+        "secondary": "#D4A15C",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 30,
+      "abbr": "TB",
+      "city": "Memphis",
+      "name": "Hounds",
+      "stadium": "Barkley Field",
+      "market": 31,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "South",
+      "colors": {
+        "primary": "#3C414A",
+        "secondary": "#B7A58B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 1,
+      "abbr": "ARI",
+      "city": "San Francisco",
+      "name": "Gold Rush",
+      "stadium": "Prospector Park",
+      "market": 57,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "West",
+      "colors": {
+        "primary": "#7A542B",
+        "secondary": "#E2C77A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 18,
+      "abbr": "LAR",
+      "city": "Denver",
+      "name": "Mountaineers",
+      "stadium": "Altitude Stadium",
+      "market": 18,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "West",
+      "colors": {
+        "primary": "#244A66",
+        "secondary": "#D68B4C",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 28,
+      "abbr": "SEA",
+      "city": "Kansas City",
+      "name": "Warriors",
+      "stadium": "Warpath Field",
+      "market": 37,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "West",
+      "colors": {
+        "primary": "#6B252B",
+        "secondary": "#D5B46B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 29,
+      "abbr": "SF",
+      "city": "Boise",
+      "name": "Raptors",
+      "stadium": "Raptor Ridge",
+      "market": 16,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "West",
+      "colors": {
+        "primary": "#344C35",
+        "secondary": "#C4C8B4",
+        "tertiary": "#FFFFFF"
+      }
+    }
+  ]
+}
