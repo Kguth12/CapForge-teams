@@ -1,0 +1,531 @@
+{
+  "schemaVersion": 3,
+  "note": "Alternate custom fictional 32-team league. Team IDs, abbreviations, conferences and divisions are retained in the shipped CapForge slots for compatibility; all franchise identities, cities, stadiums, market sizes and colors are alternate.",
+  "league": {
+    "startingSalaryCap": 300000000,
+    "conferences": [
+      "AFC",
+      "NFC"
+    ],
+    "divisions": [
+      "East",
+      "North",
+      "South",
+      "West"
+    ]
+  },
+  "teams": [
+    {
+      "teamId": 4,
+      "abbr": "BUF",
+      "city": "Raleigh",
+      "name": "Aviators",
+      "stadium": "Wright Flight Stadium",
+      "market": 38,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "East",
+      "colors": {
+        "primary": "#214E78",
+        "secondary": "#D6A64F",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 20,
+      "abbr": "MIA",
+      "city": "Hartford",
+      "name": "Cyclones",
+      "stadium": "Whirlwind Field",
+      "market": 24,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "East",
+      "colors": {
+        "primary": "#263A62",
+        "secondary": "#91B8D5",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 22,
+      "abbr": "NE",
+      "city": "Providence",
+      "name": "Monarchs",
+      "stadium": "Crown Point Stadium",
+      "market": 22,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "East",
+      "colors": {
+        "primary": "#563B70",
+        "secondary": "#D7B66A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 25,
+      "abbr": "NYJ",
+      "city": "Richmond",
+      "name": "Rivermen",
+      "stadium": "James River Park",
+      "market": 27,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "East",
+      "colors": {
+        "primary": "#245B50",
+        "secondary": "#C5B68B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 3,
+      "abbr": "BAL",
+      "city": "Cincinnati",
+      "name": "Forge",
+      "stadium": "Foundry Stadium",
+      "market": 34,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "North",
+      "colors": {
+        "primary": "#34383F",
+        "secondary": "#D66B37",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 7,
+      "abbr": "CIN",
+      "city": "Rochester",
+      "name": "Express",
+      "stadium": "Terminal Field",
+      "market": 25,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "North",
+      "colors": {
+        "primary": "#1E5274",
+        "secondary": "#C8D5DC",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 8,
+      "abbr": "CLE",
+      "city": "Grand Rapids",
+      "name": "Lumberjacks",
+      "stadium": "Timberline Stadium",
+      "market": 23,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "North",
+      "colors": {
+        "primary": "#31533B",
+        "secondary": "#C49A62",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 27,
+      "abbr": "PIT",
+      "city": "Des Moines",
+      "name": "Pioneers",
+      "stadium": "Prairie Crossing",
+      "market": 21,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "North",
+      "colors": {
+        "primary": "#704B2D",
+        "secondary": "#D6BD8A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 13,
+      "abbr": "HOU",
+      "city": "Birmingham",
+      "name": "Stallions",
+      "stadium": "Iron Horse Stadium",
+      "market": 30,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "South",
+      "colors": {
+        "primary": "#5C2630",
+        "secondary": "#D8B66C",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 14,
+      "abbr": "IND",
+      "city": "Little Rock",
+      "name": "Gators",
+      "stadium": "Bayou Bank Stadium",
+      "market": 18,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "South",
+      "colors": {
+        "primary": "#1E654B",
+        "secondary": "#B7C7A0",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 15,
+      "abbr": "JAX",
+      "city": "Albuquerque",
+      "name": "Scorpions",
+      "stadium": "Sandstone Stadium",
+      "market": 20,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "South",
+      "colors": {
+        "primary": "#6C3A2E",
+        "secondary": "#D7A65A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 31,
+      "abbr": "TEN",
+      "city": "El Paso",
+      "name": "Coyotes",
+      "stadium": "Desert Moon Field",
+      "market": 19,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "South",
+      "colors": {
+        "primary": "#8B542F",
+        "secondary": "#D9C29B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 10,
+      "abbr": "DEN",
+      "city": "Sacramento",
+      "name": "Quakes",
+      "stadium": "Faultline Stadium",
+      "market": 29,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "West",
+      "colors": {
+        "primary": "#273D6A",
+        "secondary": "#E0B84F",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 16,
+      "abbr": "KC",
+      "city": "Reno",
+      "name": "Jackrabbits",
+      "stadium": "High Desert Stadium",
+      "market": 17,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "West",
+      "colors": {
+        "primary": "#654A35",
+        "secondary": "#C9B28C",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 17,
+      "abbr": "LAC",
+      "city": "Tucson",
+      "name": "Roadrunners",
+      "stadium": "Saguaro Stadium",
+      "market": 22,
+      "roof": "open",
+      "conference": "AFC",
+      "division": "West",
+      "colors": {
+        "primary": "#8A3D2E",
+        "secondary": "#D9A45B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 19,
+      "abbr": "LV",
+      "city": "Fresno",
+      "name": "Foxes",
+      "stadium": "Central Valley Field",
+      "market": 21,
+      "roof": "dome",
+      "conference": "AFC",
+      "division": "West",
+      "colors": {
+        "primary": "#A34A2D",
+        "secondary": "#E2C27B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 9,
+      "abbr": "DAL",
+      "city": "Baltimore",
+      "name": "Admirals",
+      "stadium": "Harborfront Stadium",
+      "market": 46,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "East",
+      "colors": {
+        "primary": "#243D63",
+        "secondary": "#B6C7D8",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 24,
+      "abbr": "NYG",
+      "city": "Newark",
+      "name": "Guardians",
+      "stadium": "Gateway Stadium",
+      "market": 31,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "East",
+      "colors": {
+        "primary": "#315A45",
+        "secondary": "#C6B77A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 26,
+      "abbr": "PHI",
+      "city": "Albany",
+      "name": "Royals",
+      "stadium": "Empire Crown Stadium",
+      "market": 20,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "East",
+      "colors": {
+        "primary": "#56365F",
+        "secondary": "#D7B65B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 32,
+      "abbr": "WAS",
+      "city": "Louisville",
+      "name": "Minutemen",
+      "stadium": "Commonwealth Field",
+      "market": 28,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "East",
+      "colors": {
+        "primary": "#6B3032",
+        "secondary": "#C9BBA5",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 6,
+      "abbr": "CHI",
+      "city": "Omaha",
+      "name": "Bison",
+      "stadium": "Heartland Stadium",
+      "market": 23,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "North",
+      "colors": {
+        "primary": "#4B3C32",
+        "secondary": "#C7B58B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 11,
+      "abbr": "DET",
+      "city": "Madison",
+      "name": "Badgers",
+      "stadium": "Capitol Field",
+      "market": 24,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "North",
+      "colors": {
+        "primary": "#A33A32",
+        "secondary": "#D8D0C0",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 12,
+      "abbr": "GB",
+      "city": "Fargo",
+      "name": "Frost",
+      "stadium": "Northern Lights Stadium",
+      "market": 15,
+      "roof": "dome",
+      "conference": "NFC",
+      "division": "North",
+      "colors": {
+        "primary": "#2C536C",
+        "secondary": "#B8D6E2",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 21,
+      "abbr": "MIN",
+      "city": "Indianapolis",
+      "name": "Racers",
+      "stadium": "Motor Mile Stadium",
+      "market": 34,
+      "roof": "retractable",
+      "conference": "NFC",
+      "division": "North",
+      "colors": {
+        "primary": "#253E72",
+        "secondary": "#D1A94F",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 2,
+      "abbr": "ATL",
+      "city": "Jacksonville",
+      "name": "Pelicans",
+      "stadium": "Coastal Flight Stadium",
+      "market": 29,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "South",
+      "colors": {
+        "primary": "#2B6B69",
+        "secondary": "#D7C18B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 5,
+      "abbr": "CAR",
+      "city": "Charleston",
+      "name": "Swampfoxes",
+      "stadium": "Lowcountry Field",
+      "market": 18,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "South",
+      "colors": {
+        "primary": "#3C593B",
+        "secondary": "#D0A56A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 23,
+      "abbr": "NO",
+      "city": "Savannah",
+      "name": "Captains",
+      "stadium": "Port Royal Stadium",
+      "market": 19,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "South",
+      "colors": {
+        "primary": "#243B5A",
+        "secondary": "#C5A85C",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 30,
+      "abbr": "TB",
+      "city": "Baton Rouge",
+      "name": "Rougarou",
+      "stadium": "Cypress Point Stadium",
+      "market": 25,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "South",
+      "colors": {
+        "primary": "#4E2D62",
+        "secondary": "#C8B48B",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 1,
+      "abbr": "ARI",
+      "city": "Los Angeles",
+      "name": "Comets",
+      "stadium": "Cosmos Stadium",
+      "market": 60,
+      "roof": "retractable",
+      "conference": "NFC",
+      "division": "West",
+      "colors": {
+        "primary": "#243D78",
+        "secondary": "#D7C16E",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 18,
+      "abbr": "LAR",
+      "city": "San Antonio",
+      "name": "Toros",
+      "stadium": "Mission Stadium",
+      "market": 35,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "West",
+      "colors": {
+        "primary": "#7B302C",
+        "secondary": "#D6B16A",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 28,
+      "abbr": "SEA",
+      "city": "Colorado Springs",
+      "name": "Peaks",
+      "stadium": "Summitline Field",
+      "market": 20,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "West",
+      "colors": {
+        "primary": "#31566B",
+        "secondary": "#C7D5DA",
+        "tertiary": "#FFFFFF"
+      }
+    },
+    {
+      "teamId": 29,
+      "abbr": "SF",
+      "city": "Spokane",
+      "name": "Sasquatch",
+      "stadium": "Evergreen Stadium",
+      "market": 18,
+      "roof": "open",
+      "conference": "NFC",
+      "division": "West",
+      "colors": {
+        "primary": "#31513E",
+        "secondary": "#B8C49C",
+        "tertiary": "#FFFFFF"
+      }
+    }
+  ]
+}
